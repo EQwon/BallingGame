@@ -19,8 +19,8 @@ There is a main function. You can change pin count by changing parameter.
 * If input is invalid, print error message and ignore the input
 * If input is valid, store the input and print scoreboard
 #### Private Method
-All private methods in this class are used to output scoreboard
-**The round score is only recorded if the round score is fully verified**
+All private methods in this class are used to output scoreboard.
+The round sum is only printed, if the round score is **fully verified**
 ### Round Class
 * state : Store state of this round
 	+ State.None : This round is not end yet
